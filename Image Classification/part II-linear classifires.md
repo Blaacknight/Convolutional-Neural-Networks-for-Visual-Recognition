@@ -16,8 +16,6 @@ A linear classifier processes images by flattening them into vectors and applyin
 
 For example, when classifying planes, the classifier might learn to recognize blue backgrounds and blobby structures.
 
-> "The classifier for planes looks for blue stuff and blobby stuff, making it favor planes more." *(53:58)*
-
 ### Decision Boundaries and Limitations
 
 Linear classifiers attempt to separate categories using linear boundaries.
